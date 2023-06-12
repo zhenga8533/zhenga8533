@@ -1,7 +1,11 @@
 ## Hi there 👋, I'm Allen!
 
 ### About Me
-  - 🎓 In my third year studying Computer Science at The Ohio State University
+  - 🎓 In my third year studying Computer Science at The Ohio State University.
+  - 📚 I’m currently learning neural networks.
+  - 🌱 Trying my best to expand my knowledge in software development.
+  - <a href="mailto:zhenga8533@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zheng8533@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 ### Tech Stack
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
