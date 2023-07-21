@@ -2,7 +2,7 @@
 
 ### About Me
   - 🎓 In my third year studying Computer Science at The Ohio State University.
-  - 📚 I’m currently learning neural networks.
+  - 📚 I’m currently attempting to learn neural networks and app development.
   - 🌱 Trying my best to expand my knowledge in software development.
   - 📫 Reach me at: [zhenga8533@gmail.com](mailto:zhenga8533@gmail.com)
 
