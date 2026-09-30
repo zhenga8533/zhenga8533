@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&bg_color=00000000
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&bg_color=00000000&hide_border=true
           path: dist/stats.svg
           token: ${{ env.STATS_TOKEN }}
           fail_on_error: true
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=00000000
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=00000000&hide_border=true
           path: dist/stats-dark.svg
           token: ${{ env.STATS_TOKEN }}
           fail_on_error: true
@@ -52,7 +52,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=default&bg_color=00000000
+          options: username=${{ github.repository_owner }}&layout=compact&theme=default&bg_color=00000000&hide_border=true
           path: dist/top-langs.svg
           token: ${{ env.STATS_TOKEN }}
           fail_on_error: true
@@ -61,7 +61,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=00000000
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=00000000&hide_border=true
           path: dist/top-langs-dark.svg
           token: ${{ env.STATS_TOKEN }}
           fail_on_error: true
