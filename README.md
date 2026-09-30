@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/166928679467745282/0ca8b3ef85279500e2915e51188d86e3?size=1024" />
+<img align="right" height="150" src="https://github.com/zhenga8533.png" alt="Allen Zheng" />
 
 ### Tech Stack
 
@@ -30,16 +30,16 @@
 <br />
 
 <div align="left">
-  <a href="https://discord.com/users/166928679467745282" target="_blank">
+  <a href="https://discord.com/users/166928679467745282">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
   </a>
-  <a href="mailto:zhenga8533@gmail.com" target="_blank">
+  <a href="mailto:zhenga8533@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/zhenga8533/" target="_blank">
+  <a href="https://www.linkedin.com/in/zhenga8533/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
-  <a href="weixin://dl/chat?zhenga8533" target="_blank">
+  <a href="weixin://dl/chat?zhenga8533">
     <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&style=for-the-badge" height="35" alt="wechat" />
   </a>
 </div>
@@ -48,4 +48,7 @@
 
 ### Contribution Activity
 
-<img src="https://raw.githubusercontent.com/zhenga8533/zhenga8533/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhenga8533/zhenga8533/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/zhenga8533/zhenga8533/output/snake.svg" alt="Snake animation">
+</picture>
